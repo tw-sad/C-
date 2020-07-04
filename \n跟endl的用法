@@ -1,0 +1,9 @@
+//C++ 
+//\n 跟endl的用法
+#include <iostream>
+int main(){
+	std::cout<<"hello world"<<"\n";
+	std::cout<<"hello world"<<std::endl; //endl:end of line(newline換行符號) endl跟\n都是換行的意思
+	std::cout<<"hello world";
+	return 0;
+}
