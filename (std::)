@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std; //就可審略(std::)
+int main(){
+	cout<<"hello world"<<"\n";
+	cout<<"hello world"<<endl; //endl:end of line(newline換行符號) 
+	cout<<"hello"<<" world";
+	return 0;
+}
